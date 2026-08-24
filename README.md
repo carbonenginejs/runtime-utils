@@ -1,5 +1,9 @@
 # @carbonenginejs/runtime-utils
 
+> **Retired donor.** Maintained foundations now live in the combined runtime's
+> global layers and public `@carbonenginejs/runtime/{math,model,schema,utils}`
+> subpaths. This checkout is historical evidence only; do not install or publish it.
+
 Browser-safe foundations shared across CarbonEngineJS packages.
 
 The package owns:

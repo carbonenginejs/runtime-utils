@@ -1,5 +1,9 @@
 # Runtime utilities documentation
 
+> **Historical donor documentation.** Current foundation documentation is in
+> `runtime/docs/global`; current public surfaces are exported by the combined
+> runtime.
+
 Status: Evolving
 Scope: `@carbonenginejs/runtime-utils`
 Audience: Runtime authors, integrators, and maintainers
